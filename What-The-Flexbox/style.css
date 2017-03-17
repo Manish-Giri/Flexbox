@@ -6,6 +6,10 @@
   padding: 10px;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .box1 {background: #1abc9c;}
 .box2 {background: #3498db;}
 .box3 {background: #9b59b6;}
@@ -16,11 +20,3 @@
 .box8 {background: #bdc3c7;}
 .box9 {background: #2ecc71;}
 .box10 {background: #16a085;}
-
-/* Start flexbox styles here */
-.container {
-  display: flex;
-  border: 10px solid goldenrod;
-  height: 100vh;
-  flex-direction: column;
-}
