@@ -1,0 +1,21 @@
+.container {
+  align-items: flex-start;
+  height: 100vh;
+}
+
+.box {
+  width: 33.3333%;
+}
+
+.box2 {
+  padding-bottom: 200px;
+}
+
+.box6 {
+  padding-bottom: 0;
+}
+
+.box9 {
+  padding-bottom: 50px;
+  align-self: center; /* flex-start, flex-end, stretch, baseline */
+}
