@@ -1,0 +1,24 @@
+.container {
+  min-height: 100vh;
+  /*flex-direction: column;*/
+  height: 100vh;
+  /* vertical centering */
+  /*align-items: center;*/
+  align-items: baseline;
+  border: 10px solid mistyrose;
+}
+
+
+.box1 {
+  height: 200px;
+}
+
+
+.box3 {
+  height: 10px;
+}
+
+
+.box4 {
+  height: 300px;
+}

@@ -1,0 +1,16 @@
+/*.container {
+  flex-direction: row;
+  justify-content: space-between;
+  border: 5px solid mistyrose;
+}*/
+
+.box {
+  font-size: 20px;
+}
+.container {
+  min-height: 100vh;
+  flex-direction: column;
+  /* vertical centering */
+  justify-content: center;
+  border: 10px solid mistyrose;
+}
