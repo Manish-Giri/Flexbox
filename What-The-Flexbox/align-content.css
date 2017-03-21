@@ -1,0 +1,12 @@
+.container {
+  height: 100vh;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-content: flex-end;
+  align-content: space-around;
+  align-content: center;
+  justify-content: center;
+}
+.box {
+  width: 33.333333%;
+}
